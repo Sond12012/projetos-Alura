@@ -2,7 +2,7 @@
 
 Estou desenvolvendo e aprendendo JavaScript.☕
 
-Espero que goste dos meu projetos!
+Espero que goste dos meus projetos!
 
 - com a ajuda da Alura!!
 
